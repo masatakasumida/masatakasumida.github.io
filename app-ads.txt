@@ -1,2 +1,4 @@
 google.com, pub-8750826136327772, DIRECT, f08c47fec0942fa0
 fivecdm.com,21268300,DIRECT
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
